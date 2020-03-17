@@ -29,6 +29,6 @@ module.exports = {
   ],
   rules: {
     //disable rule of space before function parentheses
-    "space-before-function-paren": 0
+    //"space-before-function-paren": 0
   }
 }
